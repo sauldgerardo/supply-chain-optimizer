@@ -1,0 +1,13 @@
+sku,name,category,supplier,unit_cost,avg_daily_demand,demand_std,lead_time_days,on_hand,on_order,order_cost,holding_cost_rate,service_level
+CN-J1772-01,J1772 Connector,Connectors,Pacific Cable Co,42.50,18,6,14,340,0,75,0.22,0.95
+CN-CCS2-02,CCS2 Combo Connector,Connectors,EuroConnect GmbH,88.00,9,4,35,420,0,120,0.22,0.98
+CN-NACS-03,NACS Connector,Connectors,Shenzhen ChargeTech,65.00,22,9,30,90,100,120,0.22,0.98
+CB-CCS-25,25ft CCS Charging Cable,Cables,Pacific Cable Co,130.00,7,3,21,210,0,90,0.20,0.95
+CB-LIQ-40,Liquid-Cooled Cable 40ft,Cables,Shenzhen ChargeTech,310.00,4,2,45,15,0,150,0.20,0.99
+PCB-CTRL-11,Charge Controller Board,Control Boards,Midwest Power Components,175.00,5,2,28,200,0,100,0.25,0.98
+PCB-COMM-12,Comms / OCPP Board,Control Boards,Midwest Power Components,95.00,6,3,28,22,0,100,0.25,0.95
+PM-30KW-21,30kW Power Module,Power Modules,EuroConnect GmbH,640.00,3,1,50,12,10,200,0.25,0.99
+PM-60KW-22,60kW Power Module,Power Modules,EuroConnect GmbH,980.00,2,1,60,6,0,200,0.25,0.99
+EN-PED-31,Pedestal Enclosure,Enclosures,Midwest Power Components,220.00,4,2,25,150,0,110,0.18,0.90
+EN-WALL-32,Wallbox Enclosure,Enclosures,Pacific Cable Co,85.00,11,4,18,260,0,80,0.18,0.90
+AC-RFID-41,RFID Reader Module,Accessories,Shenzhen ChargeTech,28.00,14,5,30,520,0,60,0.22,0.95
